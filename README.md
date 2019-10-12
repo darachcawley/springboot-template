@@ -4,7 +4,7 @@ Springboot template running with [Shared Jenkins Pipelines](https://github.com/r
 
 ## Environment vars
 None
-
+ 
 ## Pre-requisites
 - Maven [Maven](https://maven.apache.org/)
 
