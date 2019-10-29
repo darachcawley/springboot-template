@@ -36,11 +36,11 @@
     <distributionManagement>
         <snapshotRepository>
             <id>nexus-snapshots</id>
-            <url>http://nexus-dcawley-xpaas.apps.na311.openshift.opentlc.com/content/repositories/maven-snapshots/</url>
+            <url>http://nexus-shared-xpaas.apps.na311.openshift.opentlc.com/content/repositories/maven-snapshots/</url>
         </snapshotRepository>
         <repository>
             <id>nexus-releases</id>
-            <url>http://nexus-dcawley-xpaas.apps.na311.openshift.opentlc.com/content/repositories/maven-releases/</url>
+            <url>http://nexus-shared-xpaas.apps.na311.openshift.opentlc.com/content/repositories/maven-releases/</url>
         </repository>
     </distributionManagement>
     
